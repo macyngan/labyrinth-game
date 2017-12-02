@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 8e0cbad526c73e441b8971b91c373dd9
+timeCreated: 1451667027
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baseboard
+    100002: beam_1
+    100004: beam_2
+    100006: chimney
+    100008: fireplace
+    100010: floor
+    100012: hallway
+    100014: hanger
+    100016: lamp
+    100018: photo_frame
+    100020: post
+    100022: //RootNode
+    100024: room
+    100026: shade
+    100028: stone
+    100030: table
+    100032: wall_art
+    100034: walls1
+    100036: window_1
+    100038: window_2
+    100040: window_trim1
+    100042: window_trim2
+    400000: baseboard
+    400002: beam_1
+    400004: beam_2
+    400006: chimney
+    400008: fireplace
+    400010: floor
+    400012: hallway
+    400014: hanger
+    400016: lamp
+    400018: photo_frame
+    400020: post
+    400022: //RootNode
+    400024: room
+    400026: shade
+    400028: stone
+    400030: table
+    400032: wall_art
+    400034: walls1
+    400036: window_1
+    400038: window_2
+    400040: window_trim1
+    400042: window_trim2
+    2300000: baseboard
+    2300002: beam_1
+    2300004: beam_2
+    2300006: chimney
+    2300008: floor
+    2300010: hallway
+    2300012: hanger
+    2300014: photo_frame
+    2300016: post
+    2300018: shade
+    2300020: stone
+    2300022: table
+    2300024: wall_art
+    2300026: walls1
+    2300028: window_1
+    2300030: window_2
+    2300032: window_trim1
+    2300034: window_trim2
+    3300000: baseboard
+    3300002: beam_1
+    3300004: beam_2
+    3300006: chimney
+    3300008: floor
+    3300010: hallway
+    3300012: hanger
+    3300014: photo_frame
+    3300016: post
+    3300018: shade
+    3300020: stone
+    3300022: table
+    3300024: wall_art
+    3300026: walls1
+    3300028: window_1
+    3300030: window_2
+    3300032: window_trim1
+    3300034: window_trim2
+    4300000: baseboard
+    4300002: walls1
+    4300004: window_trim2
+    4300006: window_trim1
+    4300008: window_2
+    4300010: window_1
+    4300012: floor
+    4300014: hallway
+    4300016: beam_1
+    4300018: beam_2
+    4300020: stone
+    4300022: chimney
+    4300024: photo_frame
+    4300026: shade
+    4300028: post
+    4300030: hanger
+    4300032: wall_art
+    4300034: table
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

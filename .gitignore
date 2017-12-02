@@ -1,0 +1,21 @@
+.DS_Store
+
+ # ---------------[ Unity generated ]------------------ #
+Temp/
+obj/
+Library/
+
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+*.booproj
+*.svd
